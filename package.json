@@ -2,9 +2,9 @@
   "name": "eloadasproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Eloadas.ts",
   "scripts": {
-    "test": "vitest"
+    "tests": "vitest"
   },
   "keywords": [],
   "author": "",
